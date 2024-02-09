@@ -1,0 +1,15 @@
+# ToDo List App
+
+This is a simple command-line ToDo list application written in Python.
+
+## Features
+- Add tasks to the ToDo list
+- View all tasks in the list
+- Mark tasks as completed
+- Remove tasks from the list
+
+## Usage
+1. Clone the repository
+2. Navigate to the project directory
+3. Run `python todo_app.py` to start the application
+
